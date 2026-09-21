@@ -46,11 +46,11 @@ Key features:
 
 Stalwart WebUI is included with Stalwart Mail Server, to install Stalwart Mail Server on your server by following the instructions for your platform:
 
-- [Linux / MacOS](https://stalw.art/docs/install/linux)
-- [Windows](https://stalw.art/docs/install/windows)
-- [Docker](https://stalw.art/docs/install/docker)
+- [Linux / MacOS](https://stalw.art/docs/install/platform/linux)
+- [Windows](https://stalw.art/docs/install/platform/windows)
+- [Docker](https://stalw.art/docs/install/platform/docker)
 
-All documentation is available at [stalw.art/docs/get-started](https://stalw.art/docs/get-started).
+All documentation is available at [stalw.art/docs/get-started](https://stalw.art/docs/install/).
 
 ## Getting started
 
